@@ -1,5 +1,5 @@
 
-Sure, here's a template for your README file:
+
 
 Smart Parking System using OpenCV
 This project is a smart parking system implemented using OpenCV, a popular computer vision library. The system detects and tracks vehicles in a parking lot using video feed from cameras, and provides real-time information about parking space availability.
