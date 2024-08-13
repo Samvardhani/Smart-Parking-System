@@ -1,7 +1,7 @@
 # 🅿️ Smart Parking System
 
 📦 **Project Overview**
----
+--
 🚗 The **Smart Parking System** is an innovative solution designed to streamline parking management using IoT, data analytics, and real-time communication. The system reduces the time drivers spend searching for parking, decreases traffic congestion, and contributes to a more sustainable urban environment.
 
 ✨ **Features**
