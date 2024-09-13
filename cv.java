@@ -65,14 +65,7 @@ class MapScreen extends StatelessWidget {
                             color: Colors.green,
                             size: 40.0,
                           ),
-                          // Text(
-                          //   'P',
-                          //   style: TextStyle(
-                          //     fontSize: 20.0,
-                          //     color: Colors.green,
-                          //     fontWeight: FontWeight.bold,
-                          //   ),
-                          // ),
+                          
                         ],
                       ),
                     ),
